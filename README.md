@@ -1,2 +1,2 @@
 # test_go_pgsql
-a demo of connecting pgsql database by using go language
+一个使用go语言连接本地postgresql数据库，打印数据库中某个表格数据的例子。
